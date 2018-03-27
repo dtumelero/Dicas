@@ -1,0 +1,53 @@
+Listagem de podcasts relacionados a TI
+(ou com alguns episódios relacionados ao tema)
+
+----------------------------------------
+NERDCAST
+https://jovemnerd.com.br/nerdcast/?search=&theme=tecnologia&page=1
+
+https://jovemnerd.com.br/nerdcast/nerdtech/robos-querem-seu-emprego/
+https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/
+https://jovemnerd.com.br/nerdcast/nerdcast-513-cloudcast/
+
+----------------------------------------
+SCICAST
+http://www.deviante.com.br/listas-episodios/
+
+http://www.deviante.com.br/podcasts/scicast/scicast-191-internet-das-coisas/
+http://www.deviante.com.br/podcasts/scicast/scicast-180-ux-experiencia-do-usuario/
+http://www.deviante.com.br/podcasts/scicast/scicast-160-alan-turing/
+http://www.deviante.com.br/podcasts/scicast/105computacaonanuvem/
+http://www.deviante.com.br/podcasts/scicast/99-big-data/
+http://www.deviante.com.br/podcasts/scicast/90-redes-de-computadores/
+http://www.deviante.com.br/podcasts/scicast/86-arquitetura-de-computadores/
+
+----------------------------------------
+OPENCAST
+http://tecnologiaaberta.com.br/category/opencast/
+
+----------------------------------------
+CASTÁLIO
+http://castalio.info/
+
+----------------------------------------
+HACK 'N' CAST
+https://hackncast.org/
+
+----------------------------------------
+PODPROGRAMAR
+https://mundopodcast.com.br/podprogramar/
+
+----------------------------------------
+SEGURANÇA LEGAL
+http://www.segurancalegal.com/
+
+----------------------------------------
+TECNOCAST
+https://tecnoblog.net/categoria/podcast/
+
+----------------------------------------
+RETROCOMPUTARIA
+http://www.retrocomputaria.com.br/
+
+----------------------------------------
+
