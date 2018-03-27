@@ -1,2 +1,2 @@
-# php
-Arquivos da turma de php da Alcides Maya
+# Dicas
+Arquivos com dicas de coisas interessantes.
