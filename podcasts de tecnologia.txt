@@ -13,6 +13,9 @@ https://jovemnerd.com.br/nerdcast/nerdcast-513-cloudcast/
 SCICAST
 http://www.deviante.com.br/listas-episodios/
 
+http://www.deviante.com.br/podcasts/scicast/scicast-243/        A Ciência do 3D
+http://www.deviante.com.br/podcasts/scicast/scicast-228/        Blockchain
+http://www.deviante.com.br/podcasts/scicast/scicast-207-ada-lovelace/
 http://www.deviante.com.br/podcasts/scicast/scicast-191-internet-das-coisas/
 http://www.deviante.com.br/podcasts/scicast/scicast-180-ux-experiencia-do-usuario/
 http://www.deviante.com.br/podcasts/scicast/scicast-160-alan-turing/
