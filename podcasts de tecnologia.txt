@@ -3,16 +3,28 @@ Listagem de podcasts relacionados a TI
 
 ----------------------------------------
 NERDCAST
-https://jovemnerd.com.br/nerdcast/?search=&theme=tecnologia&page=1
+https://jovemnerd.com.br/nerdcast/?search=&theme=tecnologia&page=1   neste link, só os relacionados a tecnologia
 
 https://jovemnerd.com.br/nerdcast/nerdtech/robos-querem-seu-emprego/
 https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/
 https://jovemnerd.com.br/nerdcast/nerdcast-513-cloudcast/
+https://jovemnerd.com.br/nerdcast/nerdtech/sucesso-comercial-no-youtube/
+https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/
+https://jovemnerd.com.br/nerdcast/nerdtech/nerdtech-04-plataformas-e-arquitetura-de-sistemas/
+https://jovemnerd.com.br/nerdcast/nerdtech/nerdtech-03-velocidade-performance-e-otimizacao/
+https://jovemnerd.com.br/nerdcast/nerdtech/nerdtech-02-programando-no-exterior/
+https://jovemnerd.com.br/nerdcast/nerdtech/nerdtech-01-os-buracos-da-tecnologia/
+https://jovemnerd.com.br/nerdcast/blockchain-criptomoedas-e-lagosta/
+https://jovemnerd.com.br/nerdcast/nerdcast-sem-fio-4/
+
+e muitos outros...
+
 
 ----------------------------------------
 SCICAST
 http://www.deviante.com.br/listas-episodios/
 
+http://www.deviante.com.br/podcasts/scicast/scicast-253/        Machine Learning
 http://www.deviante.com.br/podcasts/scicast/scicast-243/        A Ciência do 3D
 http://www.deviante.com.br/podcasts/scicast/scicast-228/        Blockchain
 http://www.deviante.com.br/podcasts/scicast/scicast-207-ada-lovelace/
@@ -53,4 +65,11 @@ RETROCOMPUTARIA
 http://www.retrocomputaria.com.br/
 
 ----------------------------------------
+GROK PODCAST
+www.grockpodcast.com
+
+Entrevista com o Aleksandar Mandic
+http://www.grokpodcast.com/2014/10/30/episodio-117-mandic/
+http://www.grokpodcast.com/2014/10/30/episodio-118-mandic/
+http://www.grokpodcast.com/2014/10/30/episodio-119-mandic/
 
