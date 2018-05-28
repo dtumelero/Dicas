@@ -1,5 +1,5 @@
 Listagem de podcasts relacionados a TI
-(ou com alguns episódios relacionados ao tema)
+(ou com alguns episódios relacionados a temática da computação)
 
 ----------------------------------------
 NERDCAST
